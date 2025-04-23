@@ -1,2 +1,3 @@
-MCP Server PGSQL \n
+MCP Server PGSQL
+
 Tools: Select, Insert, Scheme table
